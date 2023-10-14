@@ -1,4 +1,4 @@
--- https://github.com/IP1A/Restrict-Convars
+-- https://github.com/IP1A/Small-scripts/tree/main
 -- Позволяет запрещать изменение консольных команд
 local RunConsoleCommand, AddChangeCallback = RunConsoleCommand, cvars.AddChangeCallback
 local convars = {
