@@ -1,4 +1,5 @@
 -- https://github.com/IP1A/Restrict-Convars
+-- Позволяет запрещать изменение консольных команд
 local RunConsoleCommand, AddChangeCallback = RunConsoleCommand, cvars.AddChangeCallback
 local convars = {
     cl_drawworldtooltips = '0';
